@@ -1,0 +1,8 @@
+image: php:5.6.8
+
+stages:
+  - test
+
+testing_testing:
+  stage: test
+  script: echo gcuerg
