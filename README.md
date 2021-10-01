@@ -1,4 +1,3 @@
-
 # Projet Collaboratif
 
 Draft report for the defense of :  
@@ -52,6 +51,13 @@ theo.racher-raulin@outlook.com
 ## License
 
 This is an open source project, but don forget to credit the project if you use it.
+
+
+## Backup Link
+
+clone : ```git@github.com:kidelag/Projet_Collaboratif.git```
+
+link : ```https://github.com/kidelag/Projet_Collaboratif```
 
 
 
