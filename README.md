@@ -1,11 +1,11 @@
 
 # Projet Collaboratif
 
-Projet de rendu pour la soutenance de : 
-- Solution de versionning
-- Environnement de travail collaboratif
+Draft report for the defense of :  
+- Versioning solution
+- Collaborative work environment
 
-Soutenance dû le 01/10/2021
+Submission due 01/10/2021
 
 
 ## Getting started
